@@ -1,0 +1,19 @@
+.line{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 40px;
+}
+
+.newspaper {
+    font-family: 'Oswald', sans-serif;
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    text-align: center;
+    -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+    -moz-column-width: 100px; /* Firefox */
+    column-width: 100px;
+}
